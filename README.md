@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I’m Amier Apollis, a Software Development student from South Africa with a growing focus on software development and cybersecurity.<br><br>I enjoy building practical applications and learning how systems work from the frontend to the backend. My current technologies include HTML, CSS, JavaScript, Python, C#, SQL, Node.js, and Azure.<br><br>I’m currently working on improving my development skills through personal projects, college work, and production-style applications while exploring cloud computing, APIs, databases, and cybersecurity.<br><br>Build. Learn. Break. Improve.
+<br><br>Software Development Student | C# • JavaScript • Python • SQL | Building practical applications and exploring cybersecurity.<br><br>Build. Learn. Break. Improve.
 
 
 ## 🌐 Socials:
